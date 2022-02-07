@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Курс валют на сегодняяшний день</string>
+    <string name="empty_input">Введите город</string>
+    <string name="user_hint">Введите название города</string>
+    <string name="main_button">Узнать погоду</string>
+    <string name="update">Обновить курс</string>
+</resources>
